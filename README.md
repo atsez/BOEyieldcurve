@@ -8,3 +8,4 @@ Bank of England base rate history
 Detects BoE rate decision dates
 Generates publication-quality charts using Matplotlib
 Supports interactive display or file export
+
